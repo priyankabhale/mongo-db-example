@@ -19,5 +19,5 @@ Below setps can be used if the user wishes to run mongo-db via docker
 3) docker exec -it name_of_container bash (This command lets the user enter in bash of the container)
 4) mongo (This command lets the user enter the shell of mongo)
 5) show dbs (It is used to check the various available dbs)
-6 )db.collection_name.find() (It is used to find record for a particular collection)
+6) db.collection_name.find() (It is used to find record for a particular collection)
 7) db.Hotels.find() (In this case the collection name is Hotel)
